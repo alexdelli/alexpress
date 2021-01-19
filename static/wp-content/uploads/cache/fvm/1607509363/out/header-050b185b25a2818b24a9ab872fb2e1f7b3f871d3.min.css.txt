@@ -1,0 +1,7 @@
+PROCESSED on Wed, 09 Dec 2020 10:24:59 +0000
+/wp-content/themes/metro-pro/style.css
+/wp-content/plugins/contact-form-7/includes/css/styles.css
+/wp-content/plugins/simple-social-icons/css/style.css
+/wp-content/plugins/newsletter/style.css
+/wp-content/uploads/sass/a3_lazy_load.min.css
+PROCESSED from https://alexdelli.it/wp-content/plugins/a3-lazy-load/assets/images/lazy_placehol%E2%80%A6

@@ -1,0 +1,3 @@
+PROCESSED on Wed, 09 Dec 2020 08:49:06 +0000
+/wp-content/plugins/cookie-law-info/public/css/cookie-law-info-table.css
+PROCESSED from https://alexdelli.it/cookie-policy/
