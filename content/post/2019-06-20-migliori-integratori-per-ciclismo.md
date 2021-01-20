@@ -4,7 +4,7 @@ author: alexdelli
 type: post
 date: 2019-06-20T10:27:37+00:00
 url: /migliori-integratori-per-ciclismo/
-featured_image: /wp-content/uploads/2019/06/vitamin-1276834_1280.jpg
+cover: /wp-content/uploads/2019/06/vitamin-1276834_1280.jpg
 categories:
   - 'Test &amp; Reviews'
 
