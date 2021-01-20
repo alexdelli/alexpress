@@ -7,7 +7,7 @@ author: alexdelli
 excerpt: ''
 type: post
 id: 1577
-thumbnail: ../uploads/2019/12/PRODUCT-420-P1-L.ab95690-150x150.png
+cover: ../uploads/2019/12/PRODUCT-420-P1-L.ab95690-150x150.png
 category:
     - 'Test &amp; Reviews'
 tag:
