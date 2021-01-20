@@ -4,7 +4,7 @@ author: alexdelli
 type: post
 date: 2019-12-11T13:59:41+00:00
 url: /ciclocomputer-bryton-rider-420-il-nuovo-best-buy/
-featured_image: /wp-content/uploads/2019/12/PRODUCT-420-P1-L.ab95690-332x190.png
+cover: /wp-content/uploads/2019/12/PRODUCT-420-P1-L.ab95690-332x190.png
 categories:
   - 'Test &amp; Reviews'
 tags:
