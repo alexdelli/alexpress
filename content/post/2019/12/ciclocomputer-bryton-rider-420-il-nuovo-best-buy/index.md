@@ -12,7 +12,7 @@ tags:
   - "rider420"
   - "strava"
 cover: "PRODUCT-420-P1-L.ab95690.png"
-useRelativeCover = true
+useRelativeCover: true
 ---
 
 ## Analizziamo il nuovo ciclocomputer Bryton Rider 420
