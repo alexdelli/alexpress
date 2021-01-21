@@ -4,6 +4,9 @@ theme = "hugo-theme-hello-friend"
 paginate = 5
 disqusShortname = "alexdelli"
 
+[permalinks]
+  posts = ":slug/"
+
 [params]
   # dir name of your blog content (default is `content/posts`)
   contentTypeName = "post"
