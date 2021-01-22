@@ -11,7 +11,7 @@ tags:
   - "gps"
   - "rider420"
   - "strava"
-cover: "PRODUCT-420-P1-L.ab95690.png"
+cover: "/images/PRODUCT-420-P1-L.ab95690.png"
 useRelativeCover: true
 ---
 
