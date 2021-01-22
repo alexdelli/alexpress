@@ -1,6 +1,6 @@
 ---
 title: "Migliori integratori per ciclismo"
-urls: "migliori-integratori-per-ciclismo"
+url: "migliori-integratori-per-ciclismo"
 date: "2019-06-20"
 categories: 
   - "test-e-recensioni"
@@ -27,9 +27,9 @@ Vediamo quindi sulla base dei numeri, quali sono i migliori gel per il ciclismo.
 
 [GO Isotonic Energy](https://amzn.to/2WURybF) della SIS
 
-![migliori integratori per ciclismo](/images/image.png)
+![migliori integratori per ciclismo](images/image.png)
 
-![migliori integratori per ciclismo](/images/image-1.png)
+![migliori integratori per ciclismo](images/image-1.png)
 
 Quello che si nota subito è la concentrazione di carboidrati per 100 ml di prodotto. I Carbo Sprint BCAA della Pro Action contengono ben 50 grammi di carboidrati, circa il 50% e rispetto ai GO Isotonic Energy ne contengono quasi il 30% in più.
 
