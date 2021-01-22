@@ -5,7 +5,8 @@ paginate = 5
 disqusShortname = "alexdelli"
 
 [permalinks]
-  posts = ":slug/"
+  posts = "/:title/"
+  page = "/:title/"
 
 [params]
   # dir name of your blog content (default is `content/posts`)
