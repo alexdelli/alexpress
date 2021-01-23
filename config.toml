@@ -5,7 +5,8 @@ paginate = 5
 disqusShortname = "alexdelli"
 
 [permalinks]
-  posts = ":slug/"
+  posts = "/:title/"
+  page = "/:title/"
 
 [params]
   # dir name of your blog content (default is `content/posts`)
@@ -43,9 +44,9 @@ disqusShortname = "alexdelli"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"
+        identifier = "contact"
+        name = "Contact"
+        url = "/contact"
       [[languages.en.menu.main]]
         identifier = "showcase"
         name = "Showcase"

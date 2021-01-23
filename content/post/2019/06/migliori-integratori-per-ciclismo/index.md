@@ -1,5 +1,6 @@
 ---
 title: "Migliori integratori per ciclismo"
+url: "migliori-integratori-per-ciclismo"
 date: "2019-06-20"
 categories:
   - "test-e-recensioni"
