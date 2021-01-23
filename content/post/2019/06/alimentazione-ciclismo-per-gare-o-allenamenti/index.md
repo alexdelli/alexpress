@@ -1,9 +1,16 @@
 ---
 title: "Alimentazione nel ciclismo per gare o allenamenti"
 date: "2019-06-13"
-categories: 
+categories:
   - "allenamento"
-coverImage: "victor-xok-972973-unsplash.jpg"
+tags:
+  - "alimentazione"
+  - "ciclismo"
+  - "dieta"
+  - "allenamento"
+  - "gare"
+cover: "/images/victor-xok-972973-unsplash.jpg"
+useRelativeCover: true
 ---
 
 ![Alimentazione ciclismo per gare o allenamenti](images/melissa-belanger-544371-unsplash-950x633.jpg)
@@ -35,7 +42,7 @@ Cerca di consumare 500-1000 ml di liquido per ogni ora, a seconda della tua cost
 I carboidrati devono essere consumati precocemente, in piccole quantità e frequentemente. Trenta minuti in un giro potrebbe sembrare troppo presto, ma non stai mangiando per quel momento, ma per i 15-30 chilometri di strada a seguire. Avrai bisogno di 0,5-1g di carboidrati per kg di peso corporeo ogni ora a seconda dell'intensità, cercando di suddividere su 2-3 micro-alimentazioni ogni 20-30 minuti.  
 500 ml di una comune bevanda sportiva mescolata al 6% forniscono circa 36 g di carboidrati così come gli elettroliti essenziali e, oltre a questo, un ciclista di 80-90 kg potrebbe anche consumare alcune delle opzioni sotto indicate a seconda di quanto tempo si pedala:
 
-  
+
 2 gel (22 g di carboidrati ciascuno) = 44 g  
 5 biscotti ripieni (12 g di carboidrati ciascuno) = 60 g  
 3 mini panetti con burro di arachidi (18 g di carboidrati ciascuno) = 54 g  

@@ -10,7 +10,7 @@ tags:
   - "smart"
   - "tacx"
   - "vortex"
-coverImage: "20171004_184054.jpg"
+cover: "20171004_184054.jpg"
 ---
 
 ## Rumore rulli Tacx Vortex Smart: ecco la soluzione

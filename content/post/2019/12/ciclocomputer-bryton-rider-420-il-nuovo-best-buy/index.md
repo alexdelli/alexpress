@@ -1,9 +1,9 @@
 ---
 title: "Ciclocomputer Bryton Rider 420 il nuovo best buy!"
 date: "2019-12-11"
-categories: 
+categories:
   - "test-e-recensioni"
-tags: 
+tags:
   - "bryton"
   - "ciclocomputer"
   - "garmin"

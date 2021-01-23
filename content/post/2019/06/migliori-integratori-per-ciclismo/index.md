@@ -1,12 +1,17 @@
 ---
 title: "Migliori integratori per ciclismo"
 date: "2019-06-20"
-categories: 
+categories:
   - "test-e-recensioni"
-coverImage: "vitamin-1276834_1280.jpg"
+tags:
+  - "integratori"
+  - "ciclismo"
+  - "dieta"
+cover: "/images/vitamin-1276834_1280.jpg"
+useRelativeCover: true
 ---
 
-Quando sto per acquistare gli integratori che utilizzo durante le uscite in biciletta più impegnative, mi chiedo sempre quali siano i migliori integratori per il ciclismo. Allora comincio a leggere tutti i valori nutrizionali e prendo quelli con i valori più alti. Prendevo, perchè ora ho ristretto la cerchia a due marchi solamente.
+Quando sto per acquistare gli integratori che utilizzo durante le uscite in bicicletta più impegnative, mi chiedo sempre quali siano i migliori integratori per il ciclismo. Allora comincio a leggere tutti i valori nutrizionali e prendo quelli con i valori più alti. Prendevo, perché ora ho ristretto la cerchia a due marchi solamente.
 
 Sono la SIS (Science in sport) una azienda inglese e la Pro Action un'azienda in provincia di Padova.
 
