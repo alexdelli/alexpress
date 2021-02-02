@@ -39,8 +39,8 @@ disqusShortname = "alexdelli"
       logoHomeLink = "/"
     # or
     #
-    path = "/img/trasp-Alexdelli-Logo-2.png
-    alt = "Alexdelli Logo"
+    # path = "/img/trasp-Alexdelli-Logo-2.png"
+    # alt = "Alexdelli_Logo"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
