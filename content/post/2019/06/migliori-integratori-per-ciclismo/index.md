@@ -2,6 +2,7 @@
 title: "Migliori integratori per ciclismo"
 url: "migliori-integratori-per-ciclismo"
 date: "2019-06-20"
+author: "Alexdelli"
 categories:
   - "test-e-recensioni"
 tags:

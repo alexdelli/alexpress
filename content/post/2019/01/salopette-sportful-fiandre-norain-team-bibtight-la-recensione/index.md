@@ -1,8 +1,10 @@
 ---
 title: "Salopette Sportful Fiandre NoRain Team BibTight : la recensione"
+url: "Salopette-Sportful-Fiandre-NoRain-Team-BibTight-:-la-recensione"
 date: "2019-01-09"
 categories: 
   - "test-e-recensioni"
+author: "Alexdelli"
 tags: 
   - "bibtight"
   - "ciclismo"
@@ -14,7 +16,8 @@ tags:
   - "sportful"
   - "team"
   - "vento"
-coverImage: "Fbib4.png"
+coverImage: "/images/Fbib4.png"
+useRelativeCover: "true"
 ---
 
 ### Siete alla ricerca di una salopette per allenarvi d'inverno? Ecco **Salopette Sportful Fiandre NoRain**

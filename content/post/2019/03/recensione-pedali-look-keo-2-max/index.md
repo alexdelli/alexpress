@@ -1,6 +1,8 @@
 ---
 title: "Recensione pedali Look Keo 2 Max"
+url: "recensione-pedali-look-keo-2-max"
 date: "2019-03-29"
+author: "Alexdelli"
 categories: 
   - "test-e-recensioni"
 tags: 
@@ -11,7 +13,9 @@ tags:
   - "max"
   - "pedali"
   - "recensione"
-coverImage: "20190328_203827.jpg"
+coverImage: "/images/20190328_203827.jpg"
+useRelativeCover: "true"
+
 ---
 
 ### Recensione pedali Look Keo 2 Max nuova versione 2019

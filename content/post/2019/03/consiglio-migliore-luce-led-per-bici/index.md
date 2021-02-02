@@ -1,8 +1,10 @@
 ---
 title: "Luce led per bici"
+url: "luce-led-per-bici"
 date: "2019-03-05"
 categories: 
   - "test-e-recensioni"
+author: "Alexdelli"
 tags: 
   - "bici"
   - "corsa"
@@ -11,7 +13,8 @@ tags:
   - "posteriore"
   - "sicurezza"
   - "xlite100"
-coverImage: "20190303_195114-1.jpg"
+coverImage: "/images/20190303_195114-1.jpg"
+useRelativeCover: "true"
 ---
 
 ### Recensione luce led per bici xlite100

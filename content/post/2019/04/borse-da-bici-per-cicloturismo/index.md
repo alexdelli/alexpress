@@ -1,6 +1,8 @@
 ---
 title: "Migliori borse da bici per cicloturismo"
+url: "migliori-borse-da-bici-per-cicloturismo"
 date: "2019-04-18"
+author: "Alexdelli"
 categories: 
   - "test-e-recensioni"
 tags: 
@@ -9,7 +11,8 @@ tags:
   - "cicloturismo"
   - "laterali"
   - "vaude"
-coverImage: "trek-920-review_P1250654.jpg"
+coverImage: "/images/trek-920-review_P1250654.jpg"
+useRelativeCover : true
 ---
 
 L'accessorio fondamentale per il cicloturismo, ma anche per una semplice scampagnata con familiari e amici, sono sicuramente le borse da bici per cicloturismo. Come scegliere le migliori borse da bici per cicloturismo?

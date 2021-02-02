@@ -1,15 +1,18 @@
 ---
 title: "Miglior servizio hosting economico Serverplan"
+url:  "Miglior-servizio-hosting-economico-Serverplan"
 date: "2019-01-11"
 categories: 
   - "argomenti-extra-ciclismo"
+author: "Alexdelli"
 tags: 
   - "economico"
   - "hosting"
   - "migliore"
   - "serverplan"
   - "wordpress"
-coverImage: "980x420_hosting-1.jpg"
+coverImage: "/images/980x420_hosting-1.jpg"
+useRelativeCover: "true"
 ---
 
 ## State cercando un servizio hosting efficiente ed economico?

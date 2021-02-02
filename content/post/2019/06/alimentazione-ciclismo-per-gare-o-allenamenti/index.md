@@ -1,6 +1,8 @@
 ---
 title: "Alimentazione nel ciclismo per gare o allenamenti"
+url: "alimentazione-nel-ciclismo-per-gare-o-allenamenti"
 date: "2019-06-13"
+author:  "Alexdelli"
 categories:
   - "allenamento"
 tags:
@@ -10,7 +12,7 @@ tags:
   - "allenamento"
   - "gare"
 cover: "/images/victor-xok-972973-unsplash.jpg"
-useRelativeCover: true
+useRelativeCover: "true"
 ---
 
 ![Alimentazione ciclismo per gare o allenamenti](images/melissa-belanger-544371-unsplash-950x633.jpg)
