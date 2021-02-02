@@ -23,7 +23,7 @@ disqusShortname = "alexdelli"
     title = "Alexdelli"
     subtitle = ""
     keywords = ""
-    copyright = ""
+    copyright = "ALexdelli-2021"
     menuMore = "Show more"
     writtenBy = "Written by"
     readMore = "Read more"
@@ -31,16 +31,16 @@ disqusShortname = "alexdelli"
     newerPosts = "Newer posts"
     olderPosts = "Older posts"
     minuteReadingTime = "min read"
-    dateFormatSingle = "2006-01-02"
-    dateFormatList = "2006-01-02"
+    dateFormatSingle = "02-01-2006"
+    dateFormatList = "02-01-2006"
 
     [languages.en.params.logo]
       logoText = "Alexdelli"
       logoHomeLink = "/"
     # or
     #
-    # path = "/img/your-example-logo.svg"
-    # alt = "Your example logo alt text"
+    path = "/img/trasp-Alexdelli-Logo-2.png
+    alt = "Alexdelli Logo"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
