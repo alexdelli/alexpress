@@ -1,6 +1,6 @@
 ---
 title: "Salopette Sportful Fiandre NoRain Team BibTight : la recensione"
-url: "Salopette-Sportful-Fiandre-NoRain-Team-BibTight-:-la-recensione"
+url: "salopette-sportful-fiandre-NoRain-Team-BibTight-la-recensione"
 date: "2019-01-09"
 categories: 
   - "test-e-recensioni"
