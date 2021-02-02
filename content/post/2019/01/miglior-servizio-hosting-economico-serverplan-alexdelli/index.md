@@ -11,8 +11,8 @@ tags:
   - "migliore"
   - "serverplan"
   - "wordpress"
-coverImage: "/images/980x420_hosting-1.jpg"
-useRelativeCover: "true"
+cover: "/images/980x420_hosting-1.jpg"
+useRelativeCover: true
 ---
 
 ## State cercando un servizio hosting efficiente ed economico?

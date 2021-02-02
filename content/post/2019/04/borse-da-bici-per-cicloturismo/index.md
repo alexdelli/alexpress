@@ -11,7 +11,7 @@ tags:
   - "cicloturismo"
   - "laterali"
   - "vaude"
-coverImage: "images/trek-920-review_P1250654.jpg"
+cover: "/images/trek-920-review_P1250654.jpg"
 useRelativeCover : true
 ---
 

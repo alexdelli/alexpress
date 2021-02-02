@@ -13,8 +13,8 @@ tags:
   - "posteriore"
   - "sicurezza"
   - "xlite100"
-coverImage: "/images/20190303_195114-1.jpg"
-useRelativeCover: "true"
+cover: "/images/20190303_195114-1.jpg"
+useRelativeCover: true
 ---
 
 ### Recensione luce led per bici xlite100

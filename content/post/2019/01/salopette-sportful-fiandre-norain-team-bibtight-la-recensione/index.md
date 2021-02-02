@@ -16,8 +16,8 @@ tags:
   - "sportful"
   - "team"
   - "vento"
-coverImage: "/images/Fbib4.png"
-useRelativeCover: "true"
+cover: "/images/Fbib4.png"
+useRelativeCover: true
 ---
 
 ### Siete alla ricerca di una salopette per allenarvi d'inverno? Ecco **Salopette Sportful Fiandre NoRain**

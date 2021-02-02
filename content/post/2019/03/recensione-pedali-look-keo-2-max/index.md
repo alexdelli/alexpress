@@ -13,8 +13,8 @@ tags:
   - "max"
   - "pedali"
   - "recensione"
-coverImage: "/images/20190328_203827.jpg"
-useRelativeCover: "true"
+cover: "/images/20190328_203827.jpg"
+useRelativeCover: true
 
 ---
 
