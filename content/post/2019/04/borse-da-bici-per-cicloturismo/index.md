@@ -82,8 +82,7 @@ le borse da cicloturismo sono il modello **[VAUDE Aqua Back](https://amzn.to/2vc
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&amp;bc1=FFFFFF&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=alexdelli04-21&amp;language=it_IT&amp;o=29&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=as_ss_li_til&amp;asins=B01LZMF3S2&amp;linkId=d54aa6a8d8b192dbe0be43c303c36d83"></iframe>
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=hatro-20&marketplace=amazon&region=US&placement=B07GDGZCCH&asins=B07GDGZCCH&linkId=21ac19b3aebd88af568926848ed0e44e&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
-    </iframe>
+
 	
 il prezzo è importante, ma sono qualitativamente uno scalino sopra a tutte le altre. Ce ne sono di vari colori, e in base al colore si può risparmiare qualche euro.
 
