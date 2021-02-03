@@ -4,6 +4,11 @@ theme = "hugo-theme-hello-friend"
 paginate = 5
 disqusShortname = "alexdelli"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.render]
+	unsafe = true
+	
 [permalinks]
   posts = "/:title/"
   page = "/:title/"
