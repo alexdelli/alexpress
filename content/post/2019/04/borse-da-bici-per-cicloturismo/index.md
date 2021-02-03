@@ -70,7 +70,7 @@ le borse da cicloturismo sono il modello **[VAUDE Aqua Back](https://amzn.to/2vc
 
 <!-- r if(params$ads == TRUE) {paste0(ad_prova, ad_prova2, ad_prova3)}  -->
 
-    {r, eval=params$ads, child='/ad_space.Rmd'}
+    {r, eval=params$ads, child='C:/Users/adellanna/Documents/GitHub/alexpress/ad_space.Rmd'}
 	
 	
 il prezzo è importante, ma sono qualitativamente uno scalino sopra a tutte le altre. Ce ne sono di vari colori, e in base al colore si può risparmiare qualche euro.
