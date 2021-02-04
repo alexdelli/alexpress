@@ -1,6 +1,6 @@
 ---
 title: "Come migliorare la FTP in 6 settimane con Trainerroad"
-url: "migliorare-ftp-in-6-settimane-con-trainerroadd"
+url: "migliorare-ftp-in-6-settimane-con-trainerroad"
 author: "Alexdelli"
 date: "2016-02-10"
 categories: 

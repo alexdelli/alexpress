@@ -1,5 +1,7 @@
 ---
 title: "Rumore rulli Tacx Vortex Smart: ecco la soluzione"
+url: "rumore-tacx-vortex"
+author: "Alexdelli"
 date: "2017-10-04"
 categories: 
   - "allenamento"
@@ -10,7 +12,8 @@ tags:
   - "smart"
   - "tacx"
   - "vortex"
-cover: "20171004_184054.jpg"
+cover: "/images/20171004_184054.jpg"
+useRelativeCover : true
 ---
 
 ## Rumore rulli Tacx Vortex Smart: ecco la soluzione

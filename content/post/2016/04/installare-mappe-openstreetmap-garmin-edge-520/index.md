@@ -86,9 +86,9 @@ P.P.S. Se ricevete un errore durante un aggiornamento a causa di mancaza di spaz
 Se volete acquistare un Garmin Edge 520 potete farlo tramite Amazon e avere una maggiore garanzia sui prodotti.
 
 Potete scegliere tra il Garmin Edge 520:
-
+## Garmin
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&amp;t=alexdelli04-21&amp;m=amazon&amp;o=29&amp;p=8&amp;l=as1&amp;IS1=1&amp;asins=B010SDBGQU&amp;linkId=8cf365b9cc84e1054d2c8b05a4c646cb&amp;bc1=ffffff&amp;lt1=_blank&amp;fc1=333333&amp;lc1=0066c0&amp;bg1=ffffff&amp;f=ifr"></iframe>
 
 Oppure il suo successore Garmin Edge 520 Plus:
-
+## Garmin
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&amp;t=alexdelli04-21&amp;m=amazon&amp;o=29&amp;p=8&amp;l=as1&amp;IS1=1&amp;asins=B07D9N7WKB&amp;linkId=a5001ae947cab42d1aeb29991db33daa&amp;bc1=ffffff&amp;lt1=_blank&amp;fc1=333333&amp;lc1=0066c0&amp;bg1=ffffff&amp;f=ifr"></iframe>
