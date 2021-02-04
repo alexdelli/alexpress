@@ -1,5 +1,7 @@
 ---
 title: "Come installare le mappe Openstreetmap nel Garmin Edge 520"
+url: "installare-mappe-openstreetmap-garmin-edge-520"
+author: "Alexdelli"
 date: "2016-04-19"
 categories: 
   - "test-e-recensioni"
@@ -9,7 +11,8 @@ tags:
   - "garmin"
   - "mappe"
   - "openstreetmap"
-coverImage: "GarminEdgeOfflixMap.jpg"
+cover: "/images/GarminEdgeOfflixMap.jpg"
+useRelativeCover : true
 ---
 
 # Come installare le mappe Openstreetmap nel Garmin Edge 520
