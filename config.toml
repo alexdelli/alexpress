@@ -58,3 +58,9 @@ googleAnalytics = "UA-13236673-2"
         identifier = "showcase"
         name = "Showcase"
         url = "/showcase"
+		+
+
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
