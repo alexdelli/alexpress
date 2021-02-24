@@ -1,6 +1,8 @@
 ---
 title: "Recensione Garmin Edge 520"
+url: "recensione-garmin-edge-520"
 date: "2016-04-19"
+author: "Alexdelli"
 categories: 
   - "test-e-recensioni"
 tags: 
@@ -19,7 +21,8 @@ tags:
   - "strava"
   - "varia"
   - "vision"
-coverImage: "maxresdefault.jpg"
+cover: "/images/maxresdefault.jpg"
+useRelativeCover : true
 ---
 
 ## Recensione Garmin Edge 520

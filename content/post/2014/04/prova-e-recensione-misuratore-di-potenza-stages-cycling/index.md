@@ -1,6 +1,8 @@
 ---
 title: "Stages Power Meter: prova e recensione"
 date: "2014-04-15"
+url: "prova-e-recensione-misuratore-di-potenza-stages-cycling"
+author: "Alexdelli"
 categories: 
   - "test-e-recensioni"
 tags: 
@@ -15,7 +17,8 @@ tags:
   - "test"
   - "training"
   - "watt"
-coverImage: "foto-4.jpg"
+cover: "/images/foto-4.jpg"
+useRelativeCover : true
 ---
 
 Finalmente è arrivato anche il misuratore di potenza Stages e dopo 4 settimane dall'ordine sono andato a ritirarlo presso il negozio "El Coridor". Sveglia presto per essere là prima dell'orario di apertura.

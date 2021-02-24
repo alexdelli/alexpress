@@ -1,5 +1,7 @@
 ---
 title: "I migliori 20 alimenti dietetici per dimagrire facilmente"
+url: "i-migliori-20-alimenti-dietetici-che-fanno-perdere-peso-facilmente"
+author: "Alexdelli"
 date: "2016-01-20"
 categories: 
   - "allenamento"
@@ -9,7 +11,8 @@ tags:
   - "dimagrire"
   - "perdere"
   - "peso"
-coverImage: "lose_weight_cycling.jpg"
+cover: "/images/lose_weight_cycling.jpg"
+useRelativeCover : true
 ---
 
 ## I migliori 20 alimenti dietetici che aiutano a perdere peso facilmente? Abbiamo il programma. E' semplice e funziona. Allora iniziamo.

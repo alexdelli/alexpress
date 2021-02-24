@@ -1,6 +1,8 @@
 ---
 title: "il ruolo delle proteine nel ciclismo"
 date: "2013-06-21"
+url: "il-ruolo-delle-proteine-nel-ciclismo"
+author: "Alexdelli
 categories: 
   - "allenamento"
 tags: 
@@ -10,7 +12,8 @@ tags:
   - "ciclismo"
   - "integratori"
   - "proteine"
-coverImage: "Protein-Foods.jpg"
+cover: "/images/Protein-Foods.jpg"
+useRelativeCover : true
 ---
 
 [![ciclismo e proteine](images/protein-cycle-590x466.jpg)](http://alexdelli.it/wp-content/uploads/2013/06/protein-cycle.jpg)La quota proteica riveste nel ciclista un’importanza pari a quella dei carboidrati, poichè gli amminoacidi giocano un ruolo importante nel metabolismo del muscolo. Agiscono come ricostruttori del catabolismo muscolare da sforzo.

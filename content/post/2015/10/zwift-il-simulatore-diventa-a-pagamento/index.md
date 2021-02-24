@@ -1,6 +1,8 @@
 ---
 title: "Zwift il simulatore diventa a pagamento"
 date: "2015-10-02"
+url: "zwift-il-simulatore-diventa-a-pagamento"
+author: "Alexdelli"
 categories: 
   - "allenamento"
 tags: 
@@ -16,7 +18,8 @@ tags:
   - "strava"
   - "virtual"
   - "zwift"
-coverImage: "2015-01-20_1750333.jpg"
+cover: "/images/2015-01-20_1750333.jpg"
+useRelativeCover : true
 ---
 
 La piattaforma che più ha rivoluzionato il modo di allenarsi sui rulli è entrata nell'ultimo mese della fase di test iniziata ormai un anno fa. Il team di Zwift ha emesso un comunicato dove si ringraziano tutti gli utenti che hanno aiutato nello sviluppo del software mediante la segnalazione dei bugs, e si avvisa che dal prossimo mese il servizio sarà a pagamento. [![zwift hill](images/5-950x518.jpg)](http://alexdelli.it/wp-content/uploads/2015/10/5.jpg)

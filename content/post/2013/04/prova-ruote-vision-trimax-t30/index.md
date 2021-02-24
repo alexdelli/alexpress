@@ -1,6 +1,8 @@
 ---
 title: "Prova ruote Vision Trimax T30"
 date: "2013-04-07"
+url: "prova-ruote-vision-trimax-t30"
+author: "Alexdelli"
 categories: 
   - "test-e-recensioni"
 tags: 
@@ -12,7 +14,8 @@ tags:
   - "trimax"
   - "vision"
   - "wheels"
-coverImage: "20130407-131716.jpg"
+cover: "/images/20130407-131716.jpg"
+useRelativeCover : true
 ---
 
 Oggi ho provato le mie nuove vision trimax t30, pagate sui 350 euro.

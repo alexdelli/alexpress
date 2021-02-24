@@ -1,6 +1,8 @@
 ---
 title: "Test: Sganci CTK light"
 date: "2013-07-29"
+url: "sganci-rapidi-titanio-ctk-light"
+author: "Alexdelli"
 categories: 
   - "test-e-recensioni"
 tags: 
@@ -13,7 +15,8 @@ tags:
   - "test"
   - "titanio"
   - "vision"
-coverImage: "ctk_sr02.jpg"
+cover: "/images/ctk_sr02.jpg"
+useRelativeCover : true
 ---
 
 Ho testato per voi i nuovi sganci rapidi CTK che differiscono dalla precedente versione per avere una leva piatta e larga che dovrebbe rendere più facile la chiusura e l'apertura dello sgancio. Purtroppo questa nuova configurazione rende la leva meno rigida, e la maggiore flessibilità si traduce in un minor senso di forza di bloccaggio.

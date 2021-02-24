@@ -1,6 +1,8 @@
 ---
 title: "Perchè conviene pedalare agili"
 date: "2013-09-05"
+url: "perche-conviene-pedalare-agili"
+author: "Alexdelli"
 categories: 
   - "allenamento"
 tags: 
@@ -14,7 +16,8 @@ tags:
   - "potenza"
   - "rapporti"
   - "watt"
-coverImage: "frequenza.jpg"
+cover: "/images/frequenza.jpg"
+useRelativeCover : true
 ---
 
 **Questo articolo è tratto dall'ottimo sito [http://www.aegsporting.com](http://www.aegsporting.com/) e non faccio altro che copiare-incollare qui il lavoro di Paolo Alberati.**

@@ -1,6 +1,6 @@
 ---
 title: "Migliori borse da bici per cicloturismo"
-url: "migliori-borse-da-bici-per-cicloturismo"
+url: "borse-da-bici-per-cicloturismo"
 date: "2019-04-18"
 author: "Alexdelli"
 categories: 

@@ -1,6 +1,8 @@
 ---
 title: "Ruote Yishun NP 50mm tubolare"
 date: "2014-01-15"
+url: "ruote-yishun-np-50mm-tubolare"
+author: "Alexdelli"
 categories: 
   - "test-e-recensioni"
 tags: 
@@ -14,7 +16,8 @@ tags:
   - "tubulars"
   - "whells"
   - "yishun"
-coverImage: "Foto-01-12-13-11-31-26.jpg"
+cover: "/images/Foto-01-12-13-11-31-26.jpg"
+useRelativeCover : true
 ---
 
 \[gallery ids="786,787,788,789,790,791,792,793,784,794,795,796"\]

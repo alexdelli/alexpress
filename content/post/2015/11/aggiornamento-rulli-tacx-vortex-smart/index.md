@@ -1,6 +1,9 @@
 ---
 title: "Aggiornamento firmware rulli TACX Vortex Smart"
 date: "2015-11-20"
+url: "aggiornamento-rulli-tacx-vortex-smart"
+author: "Alexdelli"
+
 categories: 
   - "allenamento"
 tags: 
@@ -16,7 +19,8 @@ tags:
   - "tts"
   - "update"
   - "vortex"
-coverImage: "trainerroad-tacx-kinomap-use-ant-fe-c-wireless-protocol-600x350.jpg"
+cover: "/images/trainerroad-tacx-kinomap-use-ant-fe-c-wireless-protocol-600x350.jpg"
+useRelativeCover : true
 ---
 
 Grazie all'assistenza Tacx sono riuscito a risolvere i miei problemi con il rullo TACX Vortex Smart che consisteva in una lettura veramente sballata della potenza.

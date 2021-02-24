@@ -1,12 +1,15 @@
 ---
 title: "Test e recensione Canyon Ultimate CF SL 9.0"
 date: "2015-07-07"
+url: "test-e-recensione-canyon-ultimate-cf-sl-9-0"
+author: "Alexdelli"
 categories: 
   - "test-e-recensioni"
 tags: 
   - "bici-corsa-canyon-ultimate-cf-sl-slx-shimano-ultegra-fsa-trek-scott"
   - "test-recensione-prova"
-coverImage: "IMG_6024.jpg"
+cover: "/images/IMG_6024.jpg"
+useRelativeCover : true
 ---
 
 E' passato un po' di tempo dall'uscita di questo modello, fratello minore del più blasonato SLX. La differenza tra i due telai è principalmente nel peso, quindi ipotizzo che sono state utilizzate delle differenti fibre di carbonio. Mentre le forcelle sono le medesime.
