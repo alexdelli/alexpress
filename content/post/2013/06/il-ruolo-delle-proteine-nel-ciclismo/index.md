@@ -2,7 +2,7 @@
 title: "il ruolo delle proteine nel ciclismo"
 date: "2013-06-21"
 url: "il-ruolo-delle-proteine-nel-ciclismo"
-author: "Alexdelli
+author: "Alexdelli"
 categories: 
   - "allenamento"
 tags: 
