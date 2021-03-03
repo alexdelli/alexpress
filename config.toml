@@ -4,10 +4,6 @@ theme = "hugo-theme-hello-friend"
 paginate = 5
 disqusShortname = "alexdelli"
 
-[Google Analytics 4]
-googleAnalyticsID = "G-F9Z7QR5XHZ"
-
-
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
@@ -26,6 +22,8 @@ googleAnalyticsID = "G-F9Z7QR5XHZ"
   showMenuItems = 2
   # Enable to show reading time in minutes for posts
   showReadingTime = false
+  # Google Analytics 4
+  googleAnalyticsID = "G-F9Z7QR5XHZ"
 
 [languages]
   [languages.en]
