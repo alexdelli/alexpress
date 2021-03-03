@@ -3,7 +3,9 @@ languageCode = "en-us"
 theme = "hugo-theme-hello-friend"
 paginate = 5
 disqusShortname = "alexdelli"
-googleAnalytics = "UA-13236673-2"
+
+[Google Analytics 4]
+googleAnalyticsID = "261802169"
 
 
 [markup]
