@@ -19,8 +19,8 @@ sections:
   label: Wp content
   create: all
   match: "**/*"
-upload_dir: https://res.cloudinary.com/dtzlqxcwp/image/upload
-public_path: https://res.cloudinary.com/dtzlqxcwp/image/upload
+upload_dir: ''
+public_path: ''
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
