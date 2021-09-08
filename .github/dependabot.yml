@@ -10,7 +10,7 @@ updates:
       commit-message:
           prefix: "🔀"
       labels: ["github-actions"]
-      target-branch: "dev"
+      target-branch: "master"
       reviewers:
         - "Alexdelli"
 
@@ -23,7 +23,7 @@ updates:
       commit-message:
           prefix: "🔀"
       labels: ["submodule"]
-      target-branch: "dev"
+      target-branch: "master"
       ignore:
         - dependency-name: "docs/blog.wiki"
       reviewers:
