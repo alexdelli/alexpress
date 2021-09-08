@@ -1,11 +1,11 @@
 +++
 author = "Alexdelli"
 categories = []
-cover = "/v1631091391/Hydrangeas_ap83ip.jpg"
+cover = "https://res.cloudinary.com/dtzlqxcwp/image/upload/v1631096050/image/upload/Jellyfish_o2dvbc.jpg"
 date = 2021-09-06T22:00:00Z
 tags = []
 title = "Prova"
 url = "prova"
-useRelativeCover = true
+useRelativeCover = false
 
 +++
