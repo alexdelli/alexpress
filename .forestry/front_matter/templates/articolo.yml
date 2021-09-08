@@ -26,3 +26,5 @@ fields:
 - type: boolean
   name: useRelativeCover
   label: useRelativeCover
+pages:
+- content/post/prova.md
