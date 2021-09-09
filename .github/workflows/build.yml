@@ -3,7 +3,7 @@ name: Netlify Deploy
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   deploy:
@@ -24,7 +24,7 @@ jobs:
         uses: nwtgck/actions-netlify@v1.2.2
         with:
           publish-dir: "./public"
-          production-branch: dev
+          production-branch: main
           github-token: ${{ secrets.GITHUB_TOKEN }}
           deploy-message: "Deployed with GitHub Actions"
           netlify-config-path: ./netlify.toml
