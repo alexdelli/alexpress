@@ -19,7 +19,7 @@ disqusShortname = "alexdelli"
   # or "" (do not display, default option)
   showPostsOnHomePage = "recent"
   # dir name of your blog content (default is `content/posts`)
-  contentTypeName = "post"
+  contentTypeName = "posts"
   # "light" or "dark"
   defaultTheme = "dark"
   # if you set this to 0, only submenu trigger will be visible
