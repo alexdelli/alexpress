@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-theme = "gokarna"
+theme = "hugo-theme-hello-friend"
 paginate = 5
 disqusShortname = "alexdelli"
 
@@ -54,23 +54,7 @@ disqusShortname = "alexdelli"
     # alt = "Alexdelli_Logo"
 
     [languages.en.menu]
-          [[languages.en.menu.main]]
-    # Unique identifer for a menu item
-    identifier = "post"
-
-    url = "/post/"
-    
-    # You can add extra information before the name (HTML format is supported), such as icons
-    pre = ""
-
-    # You can add extra information after the name (HTML format is supported), such as icons
-    post = ""
-
-    # Display name
-    name = "Post"
-
-    # Weights are used to determine the ordering
-    weight = 1
+         
       [[languages.en.menu.main]]
         identifier = "contact"
         name = "Contact"
