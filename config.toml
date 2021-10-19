@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-theme = "hugo-theme-hello-friend"
+theme = "LoveIt"
 paginate = 5
 disqusShortname = "alexdelli"
 
