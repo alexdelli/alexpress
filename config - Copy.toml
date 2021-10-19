@@ -1,14 +1,13 @@
 baseurl = "/"
-defaultContentLanguage = "en"
-languageCode = "en"
+languageCode = "en-us"
 theme = "LoveIt"
+paginate = 5
 disqusShortname = "alexdelli"
 
 [markup]
-  # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
-  [markup.highlight]
-    # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
-    noClasses = false
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+    unsafe = true
 	
 [permalinks]
   posts = "/:title/"
@@ -29,10 +28,9 @@ disqusShortname = "alexdelli"
   showReadingTime = false
   # Google Analytics 4
   googleAnalyticsID = "G-F9Z7QR5XHZ"
-  # LoveIt theme version
-  version = "0.2.X"
 
-
+[languages]
+  [languages.en]
     title = "Alexdelli"
     subtitle = ""
     keywords = ""
@@ -65,35 +63,7 @@ disqusShortname = "alexdelli"
         identifier = "showcase"
         name = "Showcase"
         url = "/showcase"
-
-[menu]
-  [[menu.main]]
-    identifier = "posts"
-    # you can add extra information before the name (HTML format is supported), such as icons
-    pre = ""
-    # you can add extra information after the name (HTML format is supported), such as icons
-    post = ""
-    name = "Posts"
-    url = "/posts/"
-    # title will be shown when you hover on this menu link
-    title = ""
-    weight = 1
-  [[menu.main]]
-    identifier = "tags"
-    pre = ""
-    post = ""
-    name = "Tags"
-    url = "/tags/"
-    title = ""
-    weight = 2
-  [[menu.main]]
-    identifier = "categories"
-    pre = ""
-    post = ""
-    name = "Categories"
-    url = "/categories/"
-    title = ""
-    weight = 3	
+		
 
 [sitemap]
   changefreq = "monthly"
