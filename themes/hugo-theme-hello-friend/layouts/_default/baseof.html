@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ $.Site.Language }}">
   <head>
-      {{ if .Site.Params.GoogleAnalyticsID }}
-  {{ partial "analytics-gtag.html" . }}
-  {{ end }}
     {{ block "title" . }}
       <title>
         {{ if .IsHome }}{{ $.Site.Title }}{{ with $.Site.Params.Subtitle }} —
@@ -26,6 +23,8 @@
       {{ end }}
     </div>
 
-
+    {{ if $.Site.GoogleAnalytics }}
+      {{ template "_internal/google_analytics.html" . }}
+    {{ end }}
   </body>
 </html>
