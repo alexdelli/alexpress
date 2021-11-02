@@ -142,7 +142,6 @@ code, kbd {
 }
 
 pre {
-  font-feature-settings: normal;
   background: #212020;
   padding: 20px;
   border-radius: 8px;
@@ -155,7 +154,6 @@ pre {
   }
 
   code {
-    font-feature-settings: normal;
     background: none !important;
     color: #ccc;
     margin: 0;
