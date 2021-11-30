@@ -24,10 +24,18 @@ In commercio ce ne sono tanti, quelli che consiglio per rapporto qualità/prezzo
 
 [Elite Trainer Suito-T](https://amzn.to/3E3yAkC "Elite Trainer Suito-T")
 
+![](https://www.elite-it.com/uploads/product/main_product_image/188/main_product_image_0191004_Suito-T_1000.png)
+
 [Elite Direto XR-T](https://amzn.to/3rmeDSx "Elite Direto XR-T")
+
+![](https://www.elite-it.com/uploads/product/thumbnail_image/189/thumbnail_image_0171007_Direto_X_760.png)
 
 Consiglio le versioni T perchè costano leggermente meno non avendo il corpetto incluso, ma con 20/25 euro lo si trova dal meccanico se non lo avete già.
 
 [Tacx Flux S](https://amzn.to/31gUqCz "Tacx Flux S")
 
+![](https://static.garmincdn.com/en/products/T2900S/g/cf-lg-fd48e6a8-2fc5-4dad-a73a-38df92cee97a.jpg)
+
 [Tacx Flux 2](https://amzn.to/3D6MjpA "Tacx Flux 2")
+
+![](https://static.garmincdn.com/en/products/T2980/g/cf-lg-5916ca9e-631e-4374-a998-b897d67c05f1.jpg)
