@@ -24,7 +24,7 @@ In commercio ce ne sono tanti, quelli che consiglio per rapporto qualità/prezzo
 
 [Elite Trainer Suito-T](https://amzn.to/3E3yAkC "Elite Trainer Suito-T")
 
-![](https://www.elite-it.com/uploads/product/thumbnail_image/188/thumbnail_image_0191004_Suito-T_760.png#100x100)
+![](https://www.elite-it.com/uploads/product/thumbnail_image/188/thumbnail_image_0191004_Suito-T_760.png){{< imgproc Resize "300x" />}}
 
 [Elite Direto XR-T](https://amzn.to/3rmeDSx "Elite Direto XR-T")
 
