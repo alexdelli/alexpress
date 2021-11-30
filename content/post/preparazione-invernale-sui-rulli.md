@@ -25,3 +25,9 @@ In commercio ce ne sono tanti, quelli che consiglio per rapporto qualità/prezzo
 [Elite Trainer Suito-T](https://amzn.to/3E3yAkC "Elite Trainer Suito-T")
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=alexdelli04-21&language=it_IT&o=29&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B08SJ6VM8T&linkId=7bbf529dc52e36ba73ad2e32597078d5"></iframe>
+
+[Elite Direto XR-T](https://amzn.to/3rmeDSx "Elite Direto XR-T")
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=alexdelli04-21&language=it_IT&o=29&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B095NBTDBB&linkId=4e417c98b05742b97858ed99de9dfe7d"></iframe>
+
+Consiglio le versioni T perchè costano leggermente meno non avendo il corpetto incluso, ma con 20/25 euro lo si trova dal meccanico se non lo avete già.
