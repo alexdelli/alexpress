@@ -10,19 +10,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2.3.5
+        uses: actions/checkout@v3.5.0
         with:
           submodules: true
           fetch-depth: 0
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2.5.0
+        uses: peaceiris/actions-hugo@v2.6.0
         with:
           hugo-version: "0.82.1"
           extended: true
       - name: Generate Static Content
         run: hugo --minify
       - name: Deploy to Netlify
-        uses: nwtgck/actions-netlify@v1.2.2
+        uses: nwtgck/actions-netlify@v2.0.0
         with:
           publish-dir: "./public"
           production-branch: main
