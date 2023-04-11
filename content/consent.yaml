@@ -1,9 +1,0 @@
-items:
-  - title: Google Anaytics (functional)
-    description: This code gives us insight into the number of people that visit our website, where they are from and what they are clicking on. We follow the guidelines of the Dutch Government, which describe how to use Google Analytics without requiring explicit consent.
-    is_functional: true
-    script_file: ga.js
-  - title: disqus
-    description: To post comments and have your Disqus login information remembered across pages, cookies – specifically, first party (and in some browsers, third-party) cookies – must be enabled.
-    is_functional: false
-    script_file: disqus.js
