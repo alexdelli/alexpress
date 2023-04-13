@@ -1,3 +1,7 @@
+---
+_template: articolo
+---
+
 +++
 author = "alexdelli"
 categories = ["allenamento"]
