@@ -5,7 +5,6 @@ author: "Alexdelli"
 date: "2019-01-09"
 categories: 
   - "test-e-recensioni"
-author: "Alexdelli"
 tags: 
   - "bibtight"
   - "ciclismo"
