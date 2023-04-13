@@ -46,6 +46,4 @@ Sull'esterno ci sono 2 coppie di fascette riflettenti che male non fanno di cerr
 
 In conclusione mi sento soddisfatto di questa salopette, soprattutto per averla pagata poco. Promossa a pieni voti
 
- 
-
 \[caption id="attachment\_1294" align="aligncenter" width="590"\][![Sportful Fiandre NoRain Team BibTight](images/113272-5-590x252.jpg "Sportful Fiandre NoRain Team BibTight")](https://alexdelli.it/wp-content/uploads/2019/01/113272-5.jpg) Sportful Fiandre NoRain Team BibTight\[/caption\]
