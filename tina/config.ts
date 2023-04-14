@@ -2,7 +2,11 @@ import { defineConfig } from "tinacms";
 import { articoloFields } from "./templates";
 
 // Your hosting provider likely exposes this as an environment variable
-const branch = process.env.HEAD || process.env.VERCEL_GIT_COMMIT_REF || "main";
+const branch =
+  process.env.HEAD || process.env.VERCEL_GIT_COMMIT_REF || "main";
+  process.env.NEXT_PUBLIC_TINA_BRANCH ||
+  process.env.NEXT_PUBLIC_VERCEL_GIT_COMMIT_REF ||
+  process.env.HEAD
 
 export default defineConfig({
   branch,
