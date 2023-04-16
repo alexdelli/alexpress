@@ -17,7 +17,7 @@ media_library:
           crop: scale
 # field
 fields: # The fields each document in this collection have
-- label: 'Cover Image'
+- label: 'Featured image'
   name: 'image'
   widget: 'image'
   required: false
