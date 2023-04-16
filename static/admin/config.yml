@@ -3,6 +3,7 @@ backend:
   branch: main
 media_folder: "static/images" # Folder where user uploaded files should go
 public_folder: "images"
+# global
 media_library:
   name: cloudinary
   output_filename_only: false
@@ -11,9 +12,24 @@ media_library:
     api_key: 181122574928372
     default_transformations:
       - - fetch_format: auto
-          width: 160
+          width: 500
           quality: auto
           crop: scale
+# field
+fields: # The fields each document in this collection have
+- label: 'Cover Image'
+  name: 'image'
+  widget: 'image'
+  required: false
+  tagname: ''
+  media_library:
+    config:
+      default_transformations:
+        - fetch_format: auto
+          width: 600    
+          quality: auto
+          crop: fill
+          effect: grayscale
 collections:
   - name: "posts" # Used in routes, e.g., /admin/collections/post
     label: "Posts" # Used in the UI
