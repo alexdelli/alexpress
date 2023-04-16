@@ -32,8 +32,7 @@ fields: # The fields each document in this collection have
         - fetch_format: auto
           width: 860    
           quality: auto
-          crop: fill
-          effect: grayscale
+          crop: scale
 collections:
   - name: "posts" # Used in routes, e.g., /admin/collections/post
     label: "Posts" # Used in the UI
