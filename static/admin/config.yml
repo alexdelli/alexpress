@@ -56,6 +56,7 @@ collections:
     summary: "{{title}} -- {{year}}/{{month}}/{{day}}"
   - name: "pages"
     label: "Pages"
+    folder: "content/page" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     files:
       - file: "content/_index.md"
