@@ -28,6 +28,9 @@ disqusShortname = "alexdelli"
   showReadingTime = false
   # Google Analytics 4
   googleAnalyticsID = "G-H3BPDLSWPR"
+  # Robot
+  enableRobotsTXT = true
+
 
 [languages]
   [languages.en]
