@@ -1,3 +1,7 @@
 [build]
   command = "hugo"
   publish = "public"
+[build.environment]
+  HUGO_VERSION = "0.139.0"
+  TZ = "Europa/Rome"
+
