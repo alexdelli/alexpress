@@ -1,3 +1,3 @@
 [build]
-  command = "hugo_0.139.0"
+  command = "hugo"
   publish = "public"
