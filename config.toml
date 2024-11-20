@@ -4,6 +4,8 @@ theme = "hugo-theme-hello-friend"
 paginate = 5
 disqusShortname = "alexdelli"
 
+enableRobotsTXT = true
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
@@ -28,8 +30,6 @@ disqusShortname = "alexdelli"
   showReadingTime = false
   # Google Analytics 4
   googleAnalyticsID = "G-H3BPDLSWPR"
-  # Robot
-  enableRobotsTXT = true
 
 
 [languages]
