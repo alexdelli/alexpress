@@ -38,10 +38,10 @@ disableHugoGeneratorInject = false
       # Maximum number of items in the RSS feed.
       limit = 42
       
-#   [services.disqus]
-#     shortname = 'alexdelli'
-#   [services.googleAnalytics]
-#     ID = 'G-H3BPDLSWPR'
+[services.disqus]
+  shortname = 'alexdelli'
+[services.googleAnalytics]
+  ID = 'G-H3BPDLSWPR'
 
 [permalinks]
   posts = "/:title/"
@@ -88,7 +88,7 @@ disableHugoGeneratorInject = false
   # Per default, this option is off. 
   # The theme is respecting the prefers-color-scheme of the operating system. 
   # With this option on, the page user is able to set the scheme he wants. 
-  enableThemeToggle = false
+  enableThemeToggle = true
 
   # Sharing buttons
   #
@@ -102,7 +102,7 @@ disableHugoGeneratorInject = false
   #
   # Enables the global language menu.
   #
-  enableGlobalLanguageMenu = true
+  enableGlobalLanguageMenu = false
 
   # Integrate Javascript files or stylesheets by adding the url to the external assets or by
   # linking local files with their path relative to the static folder, e.g. "css/styles.css"
@@ -145,7 +145,7 @@ disableHugoGeneratorInject = false
 
   [params.logo]
     logoMark     = ">"
-    logoText     = "$ cd /home/"
+    logoText     = "Alexdelli"
     logoHomeLink = "/"
     # Set true to remove the logo cursor entirely.
     # logoCursorDisabled = false
@@ -256,12 +256,7 @@ disableHugoGeneratorInject = false
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   [languages.fr.params]
     subtitle  = "Hello Friend NG Theme"
-	
-  [languages.it]
-    weight    = 1
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-  [languages.it.params]
-    subtitle  = "Alexdelli"
+
 
 [menu]
   [[menu.main]]
