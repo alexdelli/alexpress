@@ -39,7 +39,7 @@ disableHugoGeneratorInject = false
       limit = 42
       
   [services.disqus]
-    shortname = 'ilguano'
+    shortname = 'alexdelli-1'
   [services.googleAnalytics]
     ID = 'G-H3BPDLSWPR'
 
