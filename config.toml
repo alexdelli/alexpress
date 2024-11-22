@@ -1,6 +1,6 @@
 baseURL = "/"
 title   = "Alexdelli"
-languageCode = "it-it"
+languageCode = "it-IT"
 theme = "hello-friend-ng"
 
 PygmentsCodeFences = true
@@ -56,6 +56,14 @@ disableHugoGeneratorInject = false
   series   = "series"
 
 [params]
+
+  # If you want to display posts on the homepage, the options are
+  # "popular" (order posts by weight), "recent" (order posts by date)
+  # or "" (do not display, default option)
+  showPostsOnHomePage = "recent"
+  # dir name of your blog content (default is `content/posts`)
+  contentTypeName = "post"
+
   dateform        = "2 Gen, 2006"
   dateformShort   = "2 Gen"
   dateformNum     = "01-02-2006"
