@@ -1,82 +1,6 @@
-<<<<<<< HEAD
-baseurl = "/"
-languageCode = "en-us"
-theme = "hugo-theme-hello-friend"
-paginate = 5
-disqusShortname = "alexdelli"
-
-enableRobotsTXT = true
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-    unsafe = true
-	
-[permalinks]
-  posts = "/:title/"
-  page = "/:title/"
-
-[params]
-  # If you want to display posts on the homepage, the options are
-  # "popular" (order posts by weight), "recent" (order posts by date)
-  # or "" (do not display, default option)
-  showPostsOnHomePage = "recent"
-  # dir name of your blog content (default is `content/posts`)
-  contentTypeName = "posts"
-  # "light" or "dark"
-  defaultTheme = "dark"
-  # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
-  # Enable to show reading time in minutes for posts
-  showReadingTime = false
-  # Google Analytics 4
-  googleAnalyticsID = "G-H3BPDLSWPR"
-
-
-[languages]
-  [languages.en]
-    title = "Alexdelli"
-    subtitle = ""
-    keywords = ""
-    copyright = "Copyright © 2012 - 2021 Alexdelli"
-    menuMore = "Show more"
-    writtenBy = "Written by"
-    readMore = "Read more"
-    readOtherPosts = "Read other posts"
-    newerPosts = "Newer posts"
-    olderPosts = "Older posts"
-    minuteReadingTime = "min read"
-    dateFormatSingle = "02-01-2006"
-    dateFormatList = "02-01-2006"
-
-    [languages.en.params.logo]
-      logoText = "Alexdelli"
-      logoHomeLink = "/"
-    # or
-    #
-    # path = "/images/trasp-Alexdelli-Logo-2.png"
-    # alt = "Alexdelli_Logo"
-
-    [languages.en.menu]
-         
-      [[languages.en.menu.main]]
-        identifier = "contact"
-        name = "Contact"
-        url = "/contact"
-      [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Showcase"
-        url = "/showcase"
-		
-
-[sitemap]
-  changefreq = "monthly"
-  filename = "sitemap.xml"
-  priority = 0.5
-=======
 baseURL = "/"
 title   = "Alexdelli"
-languageCode = "it-IT"
+languageCode = "en-us"
 theme = "hello-friend-ng"
 
 PygmentsCodeFences = true
@@ -96,7 +20,7 @@ buildExpired = false
 canonifyURLs = true
 
 enableRobotsTXT = true
-enableGitInfo   = false
+enableGitInfo   = true
 enableEmoji     = true
 enableMissingTranslationPlaceholders = false
 disableRSS     = false
@@ -114,14 +38,13 @@ disableHugoGeneratorInject = false
       # Maximum number of items in the RSS feed.
       limit = 42
       
-  [services.disqus]
-    shortname = 'ilguano'
-  [services.googleAnalytics]
-    ID = 'G-H3BPDLSWPR'
+#   [services.disqus]
+#     shortname = 'alexdelli'
+#   [services.googleAnalytics]
+#     ID = 'G-MEASUREMENT_ID'
 
 [permalinks]
-  posts = "/:title/"
-  page = "/:title/"
+  posts = "/posts/:year/:month/:title/"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -132,35 +55,27 @@ disableHugoGeneratorInject = false
   series   = "series"
 
 [params]
-
-  # If you want to display posts on the homepage, the options are
-  # "popular" (order posts by weight), "recent" (order posts by date)
-  # or "" (do not display, default option)
-  showPostsOnHomePage = "recent"
-  # dir name of your blog content (default is `content/posts`)
-  contentTypeName = "post"
-
-  dateform        = "2 Gen, 2006"
-  dateformShort   = "2 Gen"
-  dateformNum     = "01-02-2006"
-  dateformNumTime = "01-02.2006 15:04"
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
 
   # Metadata mostly used in document's head
   # 
-  description = "Blog personale sulla preparazione nella corsa e nel ciclismo"
-  keywords = "alexdelli, blog, sport, bicicletta, running, training, garmin, ciclismo, corsa"
+  description = "Alexdelli, un blog serio sulla corsa e il ciclismo"
+  keywords = "Alexdelli, blog, sport, running, corsa, ciclismo, integratori"
   images = [""]
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "un blog di corsa"
+  homeSubtitle = "un blog serio"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   #
-  # gitUrl = ""
+  # gitUrl = "https://github.com/alexdelli/alexpress.git"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   #
@@ -203,7 +118,7 @@ disableHugoGeneratorInject = false
   # plausibleScriptSource = 'https://plausible.io/js/script.js'
 
   [params.author]
-    name = "Alexdelli"
+    name = "alexdelli"
 
   # Custom footer 
   # If you want, you can easily override the default footer with your own content. 
@@ -217,7 +132,7 @@ disableHugoGeneratorInject = false
     topText = []
     bottomText = [
       "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
-      "Made with &#10084; by <a href=\"https://github.com/alexdelli\">Alexdelli</a>"
+      "Made with &#10084; by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
     ]
 
   # Colors for favicons
@@ -229,7 +144,7 @@ disableHugoGeneratorInject = false
 
   [params.logo]
     logoMark     = ">"
-    logoText     = "Alexdelli"
+    logoText     = "$ cd /home/"
     logoHomeLink = "/"
     # Set true to remove the logo cursor entirely.
     # logoCursorDisabled = false
@@ -310,11 +225,11 @@ disableHugoGeneratorInject = false
   #
   [[params.social]]
     name = "twitter"
-    url  = "https://twitter.com/"
+    url  = "https://twitter.com/alexdelli80"
 
   [[params.social]]
     name = "email"
-    url  = "mailto:a@gmail.com"
+    url  = "mailto:nobody@example.com"
 
   [[params.social]]
     name = "github"
@@ -333,14 +248,13 @@ disableHugoGeneratorInject = false
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   [languages.en.params]
-    subtitle  = "Alexdelli"
+    subtitle  = "Hello Friend NG Theme"
 
   [languages.fr]
     weight    = 2
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   [languages.fr.params]
     subtitle  = "Hello Friend NG Theme"
-
 
 [menu]
   [[menu.main]]
@@ -350,5 +264,4 @@ disableHugoGeneratorInject = false
   [[menu.main]]
     identifier = "posts"
     name       = "Posts"
-    url        = "post/"
->>>>>>> 8a01fe2d8dfe0c62abdd83c2dd1c8d931c9d6589
+    url        = "posts/"
