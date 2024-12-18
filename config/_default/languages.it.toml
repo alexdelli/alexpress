@@ -8,13 +8,13 @@ title = "Alexdelli"
   isoCode = "it"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "img/Transparent Logo.svg"
+  logo = "img/Transparent_Logo.svg"
   description = "Un blog serio, insomma."
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
   name = "Alexdelli"
-  image = "img/Transparent Logo.svg"
+  image = "img/Transparent_Logo.svg"
   headline = "Un blog serio, insomma."
   bio = "diy addicted."
   links = [
