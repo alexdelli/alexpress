@@ -14,7 +14,7 @@ title = "Alexdelli"
 
 [params.author]
   name = "alexdelli"
-  image = "img/author2.png"
+ # image = "img/author2.png"
   headline = "Un blog serio, insomma."
   bio = "diy addicted."
   links = [
