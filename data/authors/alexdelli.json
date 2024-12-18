@@ -1,0 +1,11 @@
+{
+    "name": "Alexdelli",
+    "image" : "img/author2.png",
+    "bio": "Dummy",
+    "social": [
+        { "twitter": "https://twitter.com/alexdelli80" },
+        { "instagram": "https://instagram.com/alexdelli" },
+        { "github": "https://github.com/alexdelli" },
+        { "reddit": "https://reddit.com/user/alexdelli" }
+    ]
+}
