@@ -13,8 +13,8 @@ title = "Alexdelli"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
-  name = "Alexdelli"
-  image = "img/Transparent-Logo-150x150.png"
+  name = "alexdelli"
+  image = "img/author2.png"
   headline = "Un blog serio, insomma."
   bio = "diy addicted."
   links = [
