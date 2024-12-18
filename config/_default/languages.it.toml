@@ -1,6 +1,6 @@
 languageCode = "it"
 languageName = "Italiano"
-weight = 2
+weight = 1
 title = "Alexdelli"
 
 [params]
@@ -8,7 +8,7 @@ title = "Alexdelli"
   isoCode = "it"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "img/Transparent-Logo-150x150.png"
+  logo = "img/logo.png"
   description = "Un blog serio, insomma."
   # copyright = "Copy, _right?_ :thinking_face:"
 
