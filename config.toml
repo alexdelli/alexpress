@@ -1,7 +1,7 @@
 baseURL = "/"
 title   = "Alexdelli"
 languageCode = "en-us"
-theme = "hello-friend-ng"
+theme = "blowfish"
 
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
