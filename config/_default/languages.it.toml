@@ -1,0 +1,23 @@
+languageCode = "it"
+languageName = "Italiano"
+weight = 2
+title = "Alexdelli"
+
+[params]
+  displayName = "Italiano"
+  isoCode = "it"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/Transparent-Logo-150x150.png"
+  description = "Un blog serio, insomma."
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[params.author]
+  name = "Alexdelli"
+  image = "img/Transparent-Logo-150x150.png"
+  headline = "Un blog serio, insomma."
+  bio = "diy addicted."
+  links = [
+    { x-twitter = "https://twitter.com/alexdelli80" },
+    { github = "https://github.com/alexdelli" },
+  ]
