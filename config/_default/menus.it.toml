@@ -20,9 +20,10 @@
   pageRef = "about"
   weight = 15
 
-#[[main]]
-#  name = "Esempi"
-#  weight = 20
+[[main]]
+  name = "Privacy"
+  pageRef = "privacy"
+  weight = 20
 
 #[[main]]
 #  name = "Campioni"

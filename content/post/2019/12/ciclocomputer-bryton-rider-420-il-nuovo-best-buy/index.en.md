@@ -13,8 +13,8 @@ tags :
   - "gps"
   - "rider420"
   - "strava"
-cover : "/images/PRODUCT-420-P1-L.ab95690.png"
-featured : "featured_PRODUCT-420-P1-L.ab95690.png"
+cover : "/images/featured.png"
+featured : "/images/featured.png"
 useRelativeCover : false
 slug : "Ciclocomputer Bryton Rider 420 il nuovo best buy!"
 type : "post"
